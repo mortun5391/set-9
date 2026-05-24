@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="30" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Time: Common prefix</text>
+<line x1="78" y1="544.0" x2="750" y2="544.0" stroke="#ddd"/>
+<text x="68" y="548.0" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="78" y1="446.0" x2="750" y2="446.0" stroke="#ddd"/>
+<text x="68" y="450.0" text-anchor="end" font-family="Arial" font-size="12">2k</text>
+<line x1="78" y1="348.0" x2="750" y2="348.0" stroke="#ddd"/>
+<text x="68" y="352.0" text-anchor="end" font-family="Arial" font-size="12">4k</text>
+<line x1="78" y1="250.0" x2="750" y2="250.0" stroke="#ddd"/>
+<text x="68" y="254.0" text-anchor="end" font-family="Arial" font-size="12">6k</text>
+<line x1="78" y1="152.0" x2="750" y2="152.0" stroke="#ddd"/>
+<text x="68" y="156.0" text-anchor="end" font-family="Arial" font-size="12">7k</text>
+<line x1="78" y1="54.0" x2="750" y2="54.0" stroke="#ddd"/>
+<text x="68" y="58.0" text-anchor="end" font-family="Arial" font-size="12">9k</text>
+<line x1="78.0" y1="54" x2="78.0" y2="544" stroke="#eee"/>
+<text x="78.0" y="568" text-anchor="middle" font-family="Arial" font-size="12">100</text>
+<line x1="286.6" y1="54" x2="286.6" y2="544" stroke="#eee"/>
+<text x="286.6" y="568" text-anchor="middle" font-family="Arial" font-size="12">1000</text>
+<line x1="518.3" y1="54" x2="518.3" y2="544" stroke="#eee"/>
+<text x="518.3" y="568" text-anchor="middle" font-family="Arial" font-size="12">2000</text>
+<line x1="750.0" y1="54" x2="750.0" y2="544" stroke="#eee"/>
+<text x="750.0" y="568" text-anchor="middle" font-family="Arial" font-size="12">3000</text>
+<line x1="78" y1="544" x2="750" y2="544" stroke="#333"/>
+<line x1="78" y1="54" x2="78" y2="544" stroke="#333"/>
+<text x="414.0" y="596" text-anchor="middle" font-family="Arial" font-size="14">n</text>
+<text x="22" y="299.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 22 299.0)">Average time, us</text>
+<polyline points="78.0,528.9 101.2,512.9 124.3,514.7 147.5,504.8 170.7,481.9 193.9,468.7 217.0,409.1 240.2,342.2 263.4,338.6 286.6,193.1 309.7,389.9 332.9,389.5 356.1,268.2 379.2,358.1 402.4,346.2 425.6,350.9 448.8,307.4 471.9,328.1 495.1,277.1 518.3,284.6 541.4,268.3 564.6,251.6 587.8,233.6 611.0,207.3 634.1,201.8 657.3,187.6 680.5,140.5 703.7,145.2 726.8,111.6 750.0,90.3" fill="none" stroke="#1f77b4" stroke-width="2"/>
+<circle cx="78.0" cy="528.9" r="3" fill="#1f77b4"/>
+<circle cx="193.9" cy="468.7" r="3" fill="#1f77b4"/>
+<circle cx="309.7" cy="389.9" r="3" fill="#1f77b4"/>
+<circle cx="425.6" cy="350.9" r="3" fill="#1f77b4"/>
+<circle cx="541.4" cy="268.3" r="3" fill="#1f77b4"/>
+<circle cx="657.3" cy="187.6" r="3" fill="#1f77b4"/>
+<rect x="780" y="68" width="14" height="4" fill="#1f77b4"/>
+<text x="802" y="73" font-family="Arial" font-size="12">Quicksort</text>
+<polyline points="78.0,534.3 101.2,524.6 124.3,521.2 147.5,511.6 170.7,501.8 193.9,482.1 217.0,310.3 240.2,433.2 263.4,287.4 286.6,432.8 309.7,302.1 332.9,425.7 356.1,359.0 379.2,402.6 402.4,390.9 425.6,379.3 448.8,367.2 471.9,355.2 495.1,343.2 518.3,329.6 541.4,318.6 564.6,305.7 587.8,294.0 611.0,280.6 634.1,269.2 657.3,255.0 680.5,238.9 703.7,226.9 726.8,217.2 750.0,203.4" fill="none" stroke="#d62728" stroke-width="2"/>
+<circle cx="78.0" cy="534.3" r="3" fill="#d62728"/>
+<circle cx="193.9" cy="482.1" r="3" fill="#d62728"/>
+<circle cx="309.7" cy="302.1" r="3" fill="#d62728"/>
+<circle cx="425.6" cy="379.3" r="3" fill="#d62728"/>
+<circle cx="541.4" cy="318.6" r="3" fill="#d62728"/>
+<circle cx="657.3" cy="255.0" r="3" fill="#d62728"/>
+<rect x="780" y="92" width="14" height="4" fill="#d62728"/>
+<text x="802" y="97" font-family="Arial" font-size="12">Mergesort</text>
+<polyline points="78.0,542.4 101.2,541.6 124.3,541.1 147.5,539.8 170.7,538.1 193.9,534.3 217.0,511.3 240.2,527.3 263.4,523.7 286.6,527.3 309.7,497.2 332.9,527.6 356.1,523.0 379.2,524.7 402.4,523.0 425.6,520.8 448.8,519.9 471.9,518.3 495.1,516.7 518.3,515.4 541.4,513.6 564.6,511.4 587.8,510.5 611.0,508.3 634.1,507.2 657.3,505.6 680.5,502.2 703.7,501.9 726.8,500.4 750.0,499.0" fill="none" stroke="#2ca02c" stroke-width="2"/>
+<circle cx="78.0" cy="542.4" r="3" fill="#2ca02c"/>
+<circle cx="193.9" cy="534.3" r="3" fill="#2ca02c"/>
+<circle cx="309.7" cy="497.2" r="3" fill="#2ca02c"/>
+<circle cx="425.6" cy="520.8" r="3" fill="#2ca02c"/>
+<circle cx="541.4" cy="513.6" r="3" fill="#2ca02c"/>
+<circle cx="657.3" cy="505.6" r="3" fill="#2ca02c"/>
+<rect x="780" y="116" width="14" height="4" fill="#2ca02c"/>
+<text x="802" y="121" font-family="Arial" font-size="12">String quicksort</text>
+<polyline points="78.0,541.5 101.2,540.4 124.3,539.2 147.5,537.6 170.7,535.5 193.9,529.0 217.0,493.1 240.2,512.7 263.4,516.1 286.6,522.7 309.7,515.1 332.9,520.9 356.1,501.0 379.2,516.7 402.4,514.6 425.6,511.8 448.8,509.7 471.9,507.5 495.1,505.4 518.3,502.8 541.4,500.6 564.6,497.6 587.8,495.9 611.0,494.3 634.1,492.0 657.3,487.2 680.5,486.7 703.7,484.4 726.8,481.6 750.0,477.7" fill="none" stroke="#9467bd" stroke-width="2"/>
+<circle cx="78.0" cy="541.5" r="3" fill="#9467bd"/>
+<circle cx="193.9" cy="529.0" r="3" fill="#9467bd"/>
+<circle cx="309.7" cy="515.1" r="3" fill="#9467bd"/>
+<circle cx="425.6" cy="511.8" r="3" fill="#9467bd"/>
+<circle cx="541.4" cy="500.6" r="3" fill="#9467bd"/>
+<circle cx="657.3" cy="487.2" r="3" fill="#9467bd"/>
+<rect x="780" y="140" width="14" height="4" fill="#9467bd"/>
+<text x="802" y="145" font-family="Arial" font-size="12">String mergesort LCP</text>
+<polyline points="78.0,532.4 101.2,532.1 124.3,529.0 147.5,520.4 170.7,516.6 193.9,493.9 217.0,416.3 240.2,471.6 263.4,429.3 286.6,489.5 309.7,430.9 332.9,449.3 356.1,343.4 379.2,472.4 402.4,465.0 425.6,457.1 448.8,454.4 471.9,448.2 495.1,444.0 518.3,437.5 541.4,434.7 564.6,424.5 587.8,422.9 611.0,416.9 634.1,411.9 657.3,393.6 680.5,398.3 703.7,387.9 726.8,387.2 750.0,383.6" fill="none" stroke="#ff7f0e" stroke-width="2"/>
+<circle cx="78.0" cy="532.4" r="3" fill="#ff7f0e"/>
+<circle cx="193.9" cy="493.9" r="3" fill="#ff7f0e"/>
+<circle cx="309.7" cy="430.9" r="3" fill="#ff7f0e"/>
+<circle cx="425.6" cy="457.1" r="3" fill="#ff7f0e"/>
+<circle cx="541.4" cy="434.7" r="3" fill="#ff7f0e"/>
+<circle cx="657.3" cy="393.6" r="3" fill="#ff7f0e"/>
+<rect x="780" y="164" width="14" height="4" fill="#ff7f0e"/>
+<text x="802" y="169" font-family="Arial" font-size="12">MSD radix</text>
+<polyline points="78.0,533.9 101.2,534.5 124.3,528.4 147.5,522.8 170.7,516.7 193.9,491.6 217.0,424.9 240.2,499.2 263.4,434.6 286.6,461.6 309.7,486.7 332.9,444.2 356.1,445.2 379.2,473.0 402.4,464.6 425.6,457.8 448.8,453.1 471.9,451.0 495.1,445.5 518.3,433.1 541.4,431.4 564.6,425.4 587.8,420.5 611.0,415.3 634.1,408.4 657.3,399.8 680.5,394.5 703.7,393.5 726.8,387.0 750.0,379.2" fill="none" stroke="#17becf" stroke-width="2"/>
+<circle cx="78.0" cy="533.9" r="3" fill="#17becf"/>
+<circle cx="193.9" cy="491.6" r="3" fill="#17becf"/>
+<circle cx="309.7" cy="486.7" r="3" fill="#17becf"/>
+<circle cx="425.6" cy="457.8" r="3" fill="#17becf"/>
+<circle cx="541.4" cy="431.4" r="3" fill="#17becf"/>
+<circle cx="657.3" cy="399.8" r="3" fill="#17becf"/>
+<rect x="780" y="188" width="14" height="4" fill="#17becf"/>
+<text x="802" y="193" font-family="Arial" font-size="12">MSD + string QS</text>
+</svg>

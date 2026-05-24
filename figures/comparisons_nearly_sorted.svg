@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="30" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Comparisons: Nearly sorted</text>
+<line x1="78" y1="544.0" x2="750" y2="544.0" stroke="#ddd"/>
+<text x="68" y="548.0" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="78" y1="446.0" x2="750" y2="446.0" stroke="#ddd"/>
+<text x="68" y="450.0" text-anchor="end" font-family="Arial" font-size="12">10k</text>
+<line x1="78" y1="348.0" x2="750" y2="348.0" stroke="#ddd"/>
+<text x="68" y="352.0" text-anchor="end" font-family="Arial" font-size="12">20k</text>
+<line x1="78" y1="250.0" x2="750" y2="250.0" stroke="#ddd"/>
+<text x="68" y="254.0" text-anchor="end" font-family="Arial" font-size="12">30k</text>
+<line x1="78" y1="152.0" x2="750" y2="152.0" stroke="#ddd"/>
+<text x="68" y="156.0" text-anchor="end" font-family="Arial" font-size="12">40k</text>
+<line x1="78" y1="54.0" x2="750" y2="54.0" stroke="#ddd"/>
+<text x="68" y="58.0" text-anchor="end" font-family="Arial" font-size="12">51k</text>
+<line x1="78.0" y1="54" x2="78.0" y2="544" stroke="#eee"/>
+<text x="78.0" y="568" text-anchor="middle" font-family="Arial" font-size="12">100</text>
+<line x1="286.6" y1="54" x2="286.6" y2="544" stroke="#eee"/>
+<text x="286.6" y="568" text-anchor="middle" font-family="Arial" font-size="12">1000</text>
+<line x1="518.3" y1="54" x2="518.3" y2="544" stroke="#eee"/>
+<text x="518.3" y="568" text-anchor="middle" font-family="Arial" font-size="12">2000</text>
+<line x1="750.0" y1="54" x2="750.0" y2="544" stroke="#eee"/>
+<text x="750.0" y="568" text-anchor="middle" font-family="Arial" font-size="12">3000</text>
+<line x1="78" y1="544" x2="750" y2="544" stroke="#333"/>
+<line x1="78" y1="54" x2="78" y2="544" stroke="#333"/>
+<text x="414.0" y="596" text-anchor="middle" font-family="Arial" font-size="14">n</text>
+<text x="22" y="299.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 22 299.0)">Character comparisons</text>
+<polyline points="78.0,534.4 101.2,522.2 124.3,510.4 147.5,496.8 170.7,482.9 193.9,470.1 217.0,454.1 240.2,438.4 263.4,426.5 286.6,409.1 309.7,397.6 332.9,384.1 356.1,366.8 379.2,349.9 402.4,335.4 425.6,317.7 448.8,303.9 471.9,287.9 495.1,274.5 518.3,259.7 541.4,243.1 564.6,226.4 587.8,208.7 611.0,196.2 634.1,182.1 657.3,163.7 680.5,143.4 703.7,126.9 726.8,109.1 750.0,90.3" fill="none" stroke="#1f77b4" stroke-width="2"/>
+<circle cx="78.0" cy="534.4" r="3" fill="#1f77b4"/>
+<circle cx="193.9" cy="470.1" r="3" fill="#1f77b4"/>
+<circle cx="309.7" cy="397.6" r="3" fill="#1f77b4"/>
+<circle cx="425.6" cy="317.7" r="3" fill="#1f77b4"/>
+<circle cx="541.4" cy="243.1" r="3" fill="#1f77b4"/>
+<circle cx="657.3" cy="163.7" r="3" fill="#1f77b4"/>
+<rect x="780" y="68" width="14" height="4" fill="#1f77b4"/>
+<text x="802" y="73" font-family="Arial" font-size="12">Quicksort</text>
+<polyline points="78.0,538.1 101.2,531.3 124.3,524.0 147.5,516.6 170.7,507.7 193.9,500.8 217.0,493.6 240.2,485.0 263.4,475.5 286.6,466.0 309.7,458.7 332.9,452.1 356.1,442.7 379.2,436.3 402.4,426.5 425.6,417.3 448.8,408.9 471.9,398.9 495.1,389.9 518.3,378.8 541.4,369.9 564.6,363.4 587.8,354.8 611.0,348.8 634.1,340.4 657.3,330.0 680.5,320.3 703.7,314.6 726.8,305.0 750.0,293.6" fill="none" stroke="#d62728" stroke-width="2"/>
+<circle cx="78.0" cy="538.1" r="3" fill="#d62728"/>
+<circle cx="193.9" cy="500.8" r="3" fill="#d62728"/>
+<circle cx="309.7" cy="458.7" r="3" fill="#d62728"/>
+<circle cx="425.6" cy="417.3" r="3" fill="#d62728"/>
+<circle cx="541.4" cy="369.9" r="3" fill="#d62728"/>
+<circle cx="657.3" cy="330.0" r="3" fill="#d62728"/>
+<rect x="780" y="92" width="14" height="4" fill="#d62728"/>
+<text x="802" y="97" font-family="Arial" font-size="12">Mergesort</text>
+<polyline points="78.0,538.4 101.2,532.2 124.3,524.7 147.5,516.6 170.7,508.7 193.9,500.3 217.0,492.2 240.2,483.3 263.4,473.8 286.6,464.4 309.7,456.3 332.9,446.6 356.1,435.6 379.2,426.9 402.4,417.3 425.6,408.9 448.8,397.4 471.9,387.3 495.1,376.8 518.3,367.5 541.4,358.2 564.6,347.4 587.8,337.1 611.0,326.8 634.1,316.1 657.3,305.6 680.5,293.3 703.7,283.3 726.8,274.8 750.0,263.2" fill="none" stroke="#2ca02c" stroke-width="2"/>
+<circle cx="78.0" cy="538.4" r="3" fill="#2ca02c"/>
+<circle cx="193.9" cy="500.3" r="3" fill="#2ca02c"/>
+<circle cx="309.7" cy="456.3" r="3" fill="#2ca02c"/>
+<circle cx="425.6" cy="408.9" r="3" fill="#2ca02c"/>
+<circle cx="541.4" cy="358.2" r="3" fill="#2ca02c"/>
+<circle cx="657.3" cy="305.6" r="3" fill="#2ca02c"/>
+<rect x="780" y="116" width="14" height="4" fill="#2ca02c"/>
+<text x="802" y="121" font-family="Arial" font-size="12">String quicksort</text>
+<polyline points="78.0,540.7 101.2,537.3 124.3,533.6 147.5,530.4 170.7,526.2 193.9,522.8 217.0,520.0 240.2,516.2 263.4,511.8 286.6,507.7 309.7,504.2 332.9,501.6 356.1,497.0 379.2,495.4 402.4,491.1 425.6,487.1 448.8,483.4 471.9,479.5 495.1,475.9 518.3,471.4 541.4,467.7 564.6,464.9 587.8,461.2 611.0,459.0 634.1,455.9 657.3,451.0 680.5,446.4 703.7,445.7 726.8,441.6 750.0,437.0" fill="none" stroke="#9467bd" stroke-width="2"/>
+<circle cx="78.0" cy="540.7" r="3" fill="#9467bd"/>
+<circle cx="193.9" cy="522.8" r="3" fill="#9467bd"/>
+<circle cx="309.7" cy="504.2" r="3" fill="#9467bd"/>
+<circle cx="425.6" cy="487.1" r="3" fill="#9467bd"/>
+<circle cx="541.4" cy="467.7" r="3" fill="#9467bd"/>
+<circle cx="657.3" cy="451.0" r="3" fill="#9467bd"/>
+<rect x="780" y="140" width="14" height="4" fill="#9467bd"/>
+<text x="802" y="145" font-family="Arial" font-size="12">String mergesort LCP</text>
+<polyline points="78.0,544.0 101.2,544.0 124.3,544.0 147.5,544.0 170.7,544.0 193.9,544.0 217.0,544.0 240.2,544.0 263.4,544.0 286.6,544.0 309.7,544.0 332.9,544.0 356.1,544.0 379.2,544.0 402.4,544.0 425.6,544.0 448.8,544.0 471.9,544.0 495.1,544.0 518.3,544.0 541.4,544.0 564.6,544.0 587.8,544.0 611.0,544.0 634.1,544.0 657.3,544.0 680.5,544.0 703.7,544.0 726.8,544.0 750.0,544.0" fill="none" stroke="#ff7f0e" stroke-width="2"/>
+<circle cx="78.0" cy="544.0" r="3" fill="#ff7f0e"/>
+<circle cx="193.9" cy="544.0" r="3" fill="#ff7f0e"/>
+<circle cx="309.7" cy="544.0" r="3" fill="#ff7f0e"/>
+<circle cx="425.6" cy="544.0" r="3" fill="#ff7f0e"/>
+<circle cx="541.4" cy="544.0" r="3" fill="#ff7f0e"/>
+<circle cx="657.3" cy="544.0" r="3" fill="#ff7f0e"/>
+<rect x="780" y="164" width="14" height="4" fill="#ff7f0e"/>
+<text x="802" y="169" font-family="Arial" font-size="12">MSD radix</text>
+<polyline points="78.0,540.4 101.2,536.6 124.3,532.8 147.5,529.1 170.7,525.2 193.9,521.4 217.0,517.7 240.2,513.9 263.4,509.9 286.6,506.5 309.7,502.9 332.9,499.5 356.1,495.7 379.2,492.3 402.4,488.5 425.6,484.6 448.8,480.9 471.9,477.6 495.1,474.0 518.3,470.4 541.4,466.7 564.6,463.2 587.8,459.2 611.0,455.7 634.1,452.0 657.3,448.3 680.5,444.3 703.7,440.5 726.8,436.8 750.0,433.0" fill="none" stroke="#17becf" stroke-width="2"/>
+<circle cx="78.0" cy="540.4" r="3" fill="#17becf"/>
+<circle cx="193.9" cy="521.4" r="3" fill="#17becf"/>
+<circle cx="309.7" cy="502.9" r="3" fill="#17becf"/>
+<circle cx="425.6" cy="484.6" r="3" fill="#17becf"/>
+<circle cx="541.4" cy="466.7" r="3" fill="#17becf"/>
+<circle cx="657.3" cy="448.3" r="3" fill="#17becf"/>
+<rect x="780" y="188" width="14" height="4" fill="#17becf"/>
+<text x="802" y="193" font-family="Arial" font-size="12">MSD + string QS</text>
+</svg>

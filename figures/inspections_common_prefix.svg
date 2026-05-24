@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="30" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Inspections: Common prefix</text>
+<line x1="78" y1="544.0" x2="750" y2="544.0" stroke="#ddd"/>
+<text x="68" y="548.0" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="78" y1="446.0" x2="750" y2="446.0" stroke="#ddd"/>
+<text x="68" y="450.0" text-anchor="end" font-family="Arial" font-size="12">1.3M</text>
+<line x1="78" y1="348.0" x2="750" y2="348.0" stroke="#ddd"/>
+<text x="68" y="352.0" text-anchor="end" font-family="Arial" font-size="12">2.6M</text>
+<line x1="78" y1="250.0" x2="750" y2="250.0" stroke="#ddd"/>
+<text x="68" y="254.0" text-anchor="end" font-family="Arial" font-size="12">3.9M</text>
+<line x1="78" y1="152.0" x2="750" y2="152.0" stroke="#ddd"/>
+<text x="68" y="156.0" text-anchor="end" font-family="Arial" font-size="12">5.1M</text>
+<line x1="78" y1="54.0" x2="750" y2="54.0" stroke="#ddd"/>
+<text x="68" y="58.0" text-anchor="end" font-family="Arial" font-size="12">6.4M</text>
+<line x1="78.0" y1="54" x2="78.0" y2="544" stroke="#eee"/>
+<text x="78.0" y="568" text-anchor="middle" font-family="Arial" font-size="12">100</text>
+<line x1="286.6" y1="54" x2="286.6" y2="544" stroke="#eee"/>
+<text x="286.6" y="568" text-anchor="middle" font-family="Arial" font-size="12">1000</text>
+<line x1="518.3" y1="54" x2="518.3" y2="544" stroke="#eee"/>
+<text x="518.3" y="568" text-anchor="middle" font-family="Arial" font-size="12">2000</text>
+<line x1="750.0" y1="54" x2="750.0" y2="544" stroke="#eee"/>
+<text x="750.0" y="568" text-anchor="middle" font-family="Arial" font-size="12">3000</text>
+<line x1="78" y1="544" x2="750" y2="544" stroke="#333"/>
+<line x1="78" y1="54" x2="78" y2="544" stroke="#333"/>
+<text x="414.0" y="596" text-anchor="middle" font-family="Arial" font-size="14">n</text>
+<text x="22" y="299.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 22 299.0)">Character inspections</text>
+<polyline points="78.0,536.8 101.2,528.4 124.3,515.2 147.5,505.2 170.7,481.8 193.9,477.6 217.0,459.1 240.2,445.1 263.4,443.5 286.6,428.0 309.7,414.9 332.9,389.5 356.1,386.4 379.2,357.5 402.4,345.9 425.6,350.7 448.8,307.3 471.9,327.8 495.1,276.2 518.3,284.2 541.4,267.4 564.6,250.9 587.8,233.5 611.0,206.5 634.1,201.2 657.3,186.6 680.5,146.5 703.7,149.7 726.8,110.9 750.0,90.3" fill="none" stroke="#1f77b4" stroke-width="2"/>
+<circle cx="78.0" cy="536.8" r="3" fill="#1f77b4"/>
+<circle cx="193.9" cy="477.6" r="3" fill="#1f77b4"/>
+<circle cx="309.7" cy="414.9" r="3" fill="#1f77b4"/>
+<circle cx="425.6" cy="350.7" r="3" fill="#1f77b4"/>
+<circle cx="541.4" cy="267.4" r="3" fill="#1f77b4"/>
+<circle cx="657.3" cy="186.6" r="3" fill="#1f77b4"/>
+<rect x="780" y="68" width="14" height="4" fill="#1f77b4"/>
+<text x="802" y="73" font-family="Arial" font-size="12">Quicksort</text>
+<polyline points="78.0,538.0 101.2,530.1 124.3,521.2 147.5,511.8 170.7,502.1 193.9,491.8 217.0,481.3 240.2,470.9 263.4,459.9 286.6,449.1 309.7,437.6 332.9,426.5 356.1,415.2 379.2,403.4 402.4,391.6 425.6,380.2 448.8,368.0 471.9,356.2 495.1,344.2 518.3,332.7 541.4,319.9 564.6,307.3 587.8,295.2 611.0,282.9 634.1,270.3 657.3,257.7 680.5,244.6 703.7,232.1 726.8,219.6 750.0,206.8" fill="none" stroke="#d62728" stroke-width="2"/>
+<circle cx="78.0" cy="538.0" r="3" fill="#d62728"/>
+<circle cx="193.9" cy="491.8" r="3" fill="#d62728"/>
+<circle cx="309.7" cy="437.6" r="3" fill="#d62728"/>
+<circle cx="425.6" cy="380.2" r="3" fill="#d62728"/>
+<circle cx="541.4" cy="319.9" r="3" fill="#d62728"/>
+<circle cx="657.3" cy="257.7" r="3" fill="#d62728"/>
+<rect x="780" y="92" width="14" height="4" fill="#d62728"/>
+<text x="802" y="97" font-family="Arial" font-size="12">Mergesort</text>
+<polyline points="78.0,543.4 101.2,542.8 124.3,542.2 147.5,541.6 170.7,540.9 193.9,540.4 217.0,539.7 240.2,539.1 263.4,538.5 286.6,537.8 309.7,537.3 332.9,536.5 356.1,535.9 379.2,535.4 402.4,534.6 425.6,534.1 448.8,533.4 471.9,532.7 495.1,532.2 518.3,531.6 541.4,531.0 564.6,530.3 587.8,529.6 611.0,528.8 634.1,528.3 657.3,527.7 680.5,526.7 703.7,526.5 726.8,525.6 750.0,525.2" fill="none" stroke="#2ca02c" stroke-width="2"/>
+<circle cx="78.0" cy="543.4" r="3" fill="#2ca02c"/>
+<circle cx="193.9" cy="540.4" r="3" fill="#2ca02c"/>
+<circle cx="309.7" cy="537.3" r="3" fill="#2ca02c"/>
+<circle cx="425.6" cy="534.1" r="3" fill="#2ca02c"/>
+<circle cx="541.4" cy="531.0" r="3" fill="#2ca02c"/>
+<circle cx="657.3" cy="527.7" r="3" fill="#2ca02c"/>
+<rect x="780" y="116" width="14" height="4" fill="#2ca02c"/>
+<text x="802" y="121" font-family="Arial" font-size="12">String quicksort</text>
+<polyline points="78.0,542.9 101.2,541.7 124.3,540.5 147.5,539.3 170.7,538.1 193.9,536.9 217.0,535.7 240.2,534.5 263.4,533.3 286.6,532.1 309.7,530.9 332.9,529.7 356.1,528.5 379.2,527.3 402.4,526.1 425.6,524.9 448.8,523.6 471.9,522.4 495.1,521.2 518.3,520.0 541.4,518.7 564.6,517.5 587.8,516.3 611.0,515.1 634.1,513.9 657.3,512.6 680.5,511.4 703.7,510.2 726.8,508.9 750.0,507.7" fill="none" stroke="#9467bd" stroke-width="2"/>
+<circle cx="78.0" cy="542.9" r="3" fill="#9467bd"/>
+<circle cx="193.9" cy="536.9" r="3" fill="#9467bd"/>
+<circle cx="309.7" cy="530.9" r="3" fill="#9467bd"/>
+<circle cx="425.6" cy="524.9" r="3" fill="#9467bd"/>
+<circle cx="541.4" cy="518.7" r="3" fill="#9467bd"/>
+<circle cx="657.3" cy="512.6" r="3" fill="#9467bd"/>
+<rect x="780" y="140" width="14" height="4" fill="#9467bd"/>
+<text x="802" y="145" font-family="Arial" font-size="12">String mergesort LCP</text>
+<polyline points="78.0,542.9 101.2,541.8 124.3,540.7 147.5,539.6 170.7,538.5 193.9,537.4 217.0,536.3 240.2,535.2 263.4,534.1 286.6,533.0 309.7,531.9 332.9,530.8 356.1,529.7 379.2,528.6 402.4,527.5 425.6,526.4 448.8,525.2 471.9,524.1 495.1,523.0 518.3,521.9 541.4,520.8 564.6,519.7 587.8,518.6 611.0,517.5 634.1,516.4 657.3,515.3 680.5,514.2 703.7,513.1 726.8,511.9 750.0,510.8" fill="none" stroke="#ff7f0e" stroke-width="2"/>
+<circle cx="78.0" cy="542.9" r="3" fill="#ff7f0e"/>
+<circle cx="193.9" cy="537.4" r="3" fill="#ff7f0e"/>
+<circle cx="309.7" cy="531.9" r="3" fill="#ff7f0e"/>
+<circle cx="425.6" cy="526.4" r="3" fill="#ff7f0e"/>
+<circle cx="541.4" cy="520.8" r="3" fill="#ff7f0e"/>
+<circle cx="657.3" cy="515.3" r="3" fill="#ff7f0e"/>
+<rect x="780" y="164" width="14" height="4" fill="#ff7f0e"/>
+<text x="802" y="169" font-family="Arial" font-size="12">MSD radix</text>
+<polyline points="78.0,542.9 101.2,541.8 124.3,540.7 147.5,539.6 170.7,538.5 193.9,537.4 217.0,536.3 240.2,535.1 263.4,534.0 286.6,532.9 309.7,531.8 332.9,530.6 356.1,529.5 379.2,528.4 402.4,527.3 425.6,526.1 448.8,525.0 471.9,523.9 495.1,522.8 518.3,521.6 541.4,520.5 564.6,519.3 587.8,518.2 611.0,517.1 634.1,515.9 657.3,514.8 680.5,513.6 703.7,512.5 726.8,511.4 750.0,510.2" fill="none" stroke="#17becf" stroke-width="2"/>
+<circle cx="78.0" cy="542.9" r="3" fill="#17becf"/>
+<circle cx="193.9" cy="537.4" r="3" fill="#17becf"/>
+<circle cx="309.7" cy="531.8" r="3" fill="#17becf"/>
+<circle cx="425.6" cy="526.1" r="3" fill="#17becf"/>
+<circle cx="541.4" cy="520.5" r="3" fill="#17becf"/>
+<circle cx="657.3" cy="514.8" r="3" fill="#17becf"/>
+<rect x="780" y="188" width="14" height="4" fill="#17becf"/>
+<text x="802" y="193" font-family="Arial" font-size="12">MSD + string QS</text>
+</svg>

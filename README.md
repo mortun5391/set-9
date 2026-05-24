@@ -45,13 +45,37 @@ cmake --build build -j
 python3 tools/plot_results.py data/results.csv figures
 ```
 
+Для построения графиков нужны `pandas` и `matplotlib`. Если они не установлены:
+
+```bash
+python3 -m pip install pandas matplotlib
+```
+
+Полный CSV уже сохранён в `data/results.csv`. Его сжатая копия лежит частями в `data/raw/` и восстанавливается командой:
+
+```bash
+cat data/raw/results.csv.gz.b64.part* | base64 -d | gzip -dc > data/results.csv
+```
+
 ## Опубликованные материалы
 
 - `include/`, `src/` - генератор, тестер и алгоритмы;
 - `submissions/` - решения `A1q.cpp`, `A1m.cpp`, `A1r.cpp`, `A1rq.cpp`;
+- `data/results.csv` - полный CSV на 720 измерений;
+- `data/generated_arrays/` - максимальные массивы по 3000 строк для каждого типа тестов;
 - `data/environment.txt` - параметры запуска измерений;
 - `data/summary_at_3000.csv` - итоговый численный срез эксперимента;
+- `figures/` - 16 SVG-графиков по времени, сравнениям и обращениям к символам;
 - `tools/plot_results.py` - построение графиков;
 - `report/REPORT.md` - краткий отчёт с выводами.
 
-Полный необработанный CSV на 720 измерений, максимальные входные массивы, 16 готовых графиков и оформленный отчёт в DOCX/PDF передаются в полном комплекте сдачи. ID принятых посылок Codeforces нужно вписать после фактической отправки четырёх файлов из `submissions/`.
+Публичный репозиторий с исходными данными: https://github.com/mortun5391/set-9
+
+## Посылки Codeforces
+
+| Задача | Алгоритм | ID посылки |
+|---|---|---:|
+| A1m | String Mergesort с LCP | 375979435 |
+| A1q | String Quicksort | 375979452 |
+| A1r | MSD Radix Sort | 375979465 |
+| A1rq | MSD Radix Sort + String Quicksort | 375979474 |
