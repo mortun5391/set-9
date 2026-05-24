@@ -1,0 +1,5 @@
+Дата замеров: 2026-05-24
+Компилятор: g++ (Debian 14.2.0-19) 14.2.0
+Команда сборки: cmake -S . -B build -DCMAKE_BUILD_TYPE=Release && cmake --build build
+Команда замеров: ./build/string_sort_benchmark --out data/results.csv --inputs data/generated_arrays --runs 11 --seed 20260524
+ОС: Linux 4.4.0 x86_64 GNU/Linux
